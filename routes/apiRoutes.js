@@ -1,5 +1,5 @@
 const path = require("path");
-const db = require("../Develop/db/db.json");
+const db = require("../db/db.json");
 const fs = require("fs");
 
 
