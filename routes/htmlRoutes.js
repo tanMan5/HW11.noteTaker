@@ -4,7 +4,8 @@ const path = require("path");
 
 module.exports = function (app) {
 
-
+    // GET REQUEST HTML
+    // USER HTML 
 
     
     app.get("/", function (req, res) {
