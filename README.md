@@ -18,11 +18,11 @@ Application should allow users to delete previously saved notes.
 I was able to accomplish all the above acceptable criteria.  Below is an exemple of the application and how certain parts work:
 
 Example of PORT
-![PORT] (/public/assets/GIFs/portExample.gif)
+![PORT](/public/assets/GIFs/portExample.gif)
 
 Example of deployed on Heroku
-![Heroku] (/public/assets/GIFs/herokuExample.gif)
+![Heroku](/public/assets/GIFs/herokuExample.gif)
 
 Exampe of Storage
-![storage] (/public/assets/GIFs/storageExample.gif)
+![storage](/public/assets/GIFs/storageExample.gif)
 
