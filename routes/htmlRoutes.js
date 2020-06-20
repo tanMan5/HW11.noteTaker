@@ -4,9 +4,9 @@ const path = require("path");
 
 module.exports - function (app) {
 
-// GET REQUEST HTML
-// USER HTML 
-  app.get("/", function (req, res) {
+    // GET REQUEST HTML
+    // USER HTML 
+    app.get("/", function (req, res) {
         res.sendFile(path.join(__dirname, "../public/index.html"));
     });
 
