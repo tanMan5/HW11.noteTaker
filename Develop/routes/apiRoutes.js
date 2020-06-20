@@ -20,7 +20,7 @@ module.exports = function (app) {
             if (err) {
                 return console.log(err)
             }
-            const note= req.body;
+            const note = req.body;
             const noteList = (JSON.parse(jsonString));
 
             const id = noteList[noteList.length-1].id + 1;
