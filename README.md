@@ -20,9 +20,9 @@ I was able to accomplish all the above acceptable criteria.  Below is an exemple
 Example of PORT
 ![PORT](/publicassets/GIFs/portExample.gif)
 
-EXAMPLE OF LOCAL STORAGE
+Example of deployed on Heroku
 ![Heroku](/publicassets/GIFs/herokuExample.gif)
 
-EXAMPLE OF LOCAL STORAGE GIF
+Exampe of Storage
 ![storage](/publicassets/GIFs/storageExample.gif)
 
