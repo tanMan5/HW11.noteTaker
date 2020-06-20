@@ -38,7 +38,7 @@ module.exports = function (app) {
 
 // delete selected note
 app.delete("/api/notes/:id", function (req, res) {
-    CSSFontFaceRule.readFile(path.join(___dirname, "../db/db.json"), (err, jsonString) => {
+    fs.readFile(path.join(___dirname, "../db/db.json"), (err, jsonString) => {
         if (err) {
             return console.log(err);
         }
