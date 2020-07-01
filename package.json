@@ -1,14 +1,20 @@
 {
-  "name": "note-taker",
+  "name": "hw11.notetaker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanMan5/HW11.noteTaker.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/tanMan5/HW11.noteTaker/issues"
+  },
+  "homepage": "https://github.com/tanMan5/HW11.noteTaker#readme"
 }
